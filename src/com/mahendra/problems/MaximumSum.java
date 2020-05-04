@@ -31,7 +31,7 @@ import java.util.stream.Stream;
 import static java.util.Map.Entry.comparingByValue;
 import static java.util.stream.Collectors.toMap;
 
-class Test {
+class MaximumSum {
 
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
